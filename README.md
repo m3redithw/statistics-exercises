@@ -1,7 +1,7 @@
 ## Codeup Data Science Statistics Exercises
 
 #### Simulation
-[Class demo](simulation_lesson.ipynb)
+[Simulation class demo](simulation_lesson.ipynb)
 
 [Simulation exercises](simulation.ipynb)
 
@@ -9,7 +9,7 @@
 
 ***
 #### Probability Distributions
-[Class demo](probability_distributions_lesson.ipynb)
+[Probability class demo](probability_distributions_lesson.ipynb)
 
 [Probability distributions exercises](probability_distributions.ipynb)
 
