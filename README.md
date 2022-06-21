@@ -13,4 +13,4 @@
 
 [Probability distributions exercises](probability_distributions.ipynb)
 
-[Working with probability distributions in python](https://github.com/m3redithw/statistics-exercises/files/8952845/handout.-.working-with-probability-distributions-in-python.pdf)
+[Working with Probability Distributions in Python](https://github.com/m3redithw/statistics-exercises/files/8952845/handout.-.working-with-probability-distributions-in-python.pdf)
