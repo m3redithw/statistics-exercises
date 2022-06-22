@@ -14,3 +14,6 @@
 [Probability distributions exercises](probability_distributions.ipynb)
 
 [Working with Probability Distributions in Python](https://github.com/m3redithw/statistics-exercises/files/8952845/handout.-.working-with-probability-distributions-in-python.pdf)
+
+***
+#### Hypothesis Testing
