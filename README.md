@@ -17,3 +17,4 @@
 
 ***
 #### Hypothesis Testing
+![handout-types-of-stats](https://user-images.githubusercontent.com/105242871/175757108-a744d7f9-de71-4b4f-8832-f9141987321f.jpg)
