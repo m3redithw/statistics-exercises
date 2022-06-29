@@ -5,8 +5,6 @@
 
 [Simulation exercises](simulation.ipynb)
 
-[Statistical Testing](https://github.com/m3redithw/statistics-exercises/files/8952841/handout.-.statistical-testing.pdf)
-
 ***
 #### Probability Distributions
 ![Select the Appropirate Distribution Method](https://user-images.githubusercontent.com/105242871/176052837-f0bdf263-ca28-411f-9192-afaaf186ca66.png)
@@ -20,6 +18,8 @@
 ***
 #### Hypothesis Testing
 ![handout-types-of-stats](https://user-images.githubusercontent.com/105242871/175757108-a744d7f9-de71-4b4f-8832-f9141987321f.jpg)
+
+[Statistical Testing Cheat Sheet](https://github.com/m3redithw/statistics-exercises/files/8952841/handout.-.statistical-testing.pdf)
 
 [Hypothesis testing exercises](hypothesis_testing_exercises.ipynb)
 
