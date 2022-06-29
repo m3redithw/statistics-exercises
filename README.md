@@ -19,10 +19,9 @@
 ## Hypothesis Testing
 ![handout-types-of-stats](https://user-images.githubusercontent.com/105242871/175757108-a744d7f9-de71-4b4f-8832-f9141987321f.jpg)
 
-#### Python Statistical Testing
-<img width="397" alt="Statistical Tests" src="https://user-images.githubusercontent.com/105242871/176341540-97445bb0-24b3-4125-85ac-22043094c3b7.png">
-
 [Statistical Testing Cheat Sheet](https://github.com/m3redithw/statistics-exercises/files/8952841/handout.-.statistical-testing.pdf)
+
+<img width="397" alt="Statistical Tests" src="https://user-images.githubusercontent.com/105242871/176341540-97445bb0-24b3-4125-85ac-22043094c3b7.png">
 
 [Hypothesis testing exercises](hypothesis_testing_exercises.ipynb)
 
