@@ -25,4 +25,6 @@
 
 [Hypothesis testing exercises](hypothesis_testing_exercises.ipynb)
 
-[Comparing means class demo](comparing_means_lesson.ipynb)
+[T-Test, Comparing means class demo](comparing_means_lesson.ipynb)
+
+[Chi Square, Comparing proportion class demo](comparing_proportions_lesson.ipynb)
