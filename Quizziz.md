@@ -60,7 +60,18 @@ When doing hypothesis testing, what type of error do we make if we fail to rejec
 - Sample Size: adequate sample size.
 
 #### One-tailed
+`scipy.stats.ttest_1samp`
 <img width="763" alt="one tailed t-test" src="https://user-images.githubusercontent.com/105242871/176348641-93c92bba-25a7-41be-ab6d-dc53bb0378d9.png">
 
 #### Two-tailed
+`stats.ttest_ind`
 <img width="809" alt="two tailed t-test" src="https://user-images.githubusercontent.com/105242871/176348105-876bd794-4ccd-4584-aced-2fd958a52a88.png">
+
+## ANOVA
+`scipy.stats.f_oneway`
+
+## Correlation
+`stats.pearsonr`
+
+## Chi Square
+`stats.chi2`
