@@ -21,10 +21,16 @@
 #### Hypothesis Testing
 ![handout-types-of-stats](https://user-images.githubusercontent.com/105242871/175757108-a744d7f9-de71-4b4f-8832-f9141987321f.jpg)
 
-[Hypothesis tesing class demo](hypothesis_testing_lesson.ipynb)
-
 [Hypothesis testing exercises](hypothesis_testing_exercises.ipynb)
+
+[Hypothesis tesing class demo](hypothesis_testing_lesson.ipynb)
 
 [T-Test, Comparing means class demo](comparing_means_lesson.ipynb)
 
+[Pearson's Correlation, class demo](correlation_lesson.ipynb)
+
 [Chi Square, Comparing proportion class demo](comparing_proportions_lesson.ipynb)
+
+***
+#### Other Resources
+[Cheat sheet for Statistical Analysis in Python](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-ST0151EN-SkillsNetwork/labs/Templates/cheat_sheet_statistics_with_python.md.html?origin=www.coursera.org)
