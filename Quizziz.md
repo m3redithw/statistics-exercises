@@ -4,6 +4,8 @@
 ***
 
 ## Probability Distrubition
+<img width="735" alt="Working with Distribution" src="https://user-images.githubusercontent.com/105242871/176350329-bca4af9f-502a-48be-85a0-3fb65b08a558.png">
+
 #### Uniform
 <img width="829" alt="Uniform distribution" src="https://user-images.githubusercontent.com/105242871/176348568-59a3afb7-6270-4346-b4c4-c37b7a1e6ff6.png">
 
@@ -43,7 +45,11 @@ A type II error is when we fail to reject the null hypothesis when it is actuall
 
 When doing hypothesis testing, what type of error do we make if we fail to reject our Null Hypothesis when in reality it is not True and should have been rejected?
 (For example, our test indicates there is not a relationship in the population, but in reality there IS a relationship.)
+
 ***
+
+## Choosing Tests
+<img width="397" alt="Statistical Tests" src="https://user-images.githubusercontent.com/105242871/176350393-9c235ec5-bc79-4e03-8b9d-713ac119e182.png">
 
 ## T-Test
 #### Common assumptions we make when performing a t-test:
